@@ -351,7 +351,7 @@ namespace RelhaxModpack
             //
             English.Add("allFiles", "All files");
             German.Add("allFiles", TranslationNeeded);
-            Polish.Add("allFiles", TranslationNeeded);
+            Polish.Add("allFiles", "Wszystkie pliki");
             French.Add("allFiles", TranslationNeeded);
             Russian.Add("allFiles", TranslationNeeded);
             #endregion
@@ -361,7 +361,7 @@ namespace RelhaxModpack
             //When the application first starts, it tries to open a logfile
             English.Add("appFailedCreateLogfile", "The application failed to open a logfile. Check your file permissions or move the application to a folder with write access.");
             German.Add("appFailedCreateLogfile", TranslationNeeded);
-            Polish.Add("appFailedCreateLogfile", TranslationNeeded);
+            Polish.Add("appFailedCreateLogfile", "Aplikacja nie mogła otworzyć logów. Sprawdź uprawnienia plików lub przenieś aplikację do folderu z dostępem zapisu");
             French.Add("appFailedCreateLogfile", TranslationNeeded);
             Russian.Add("appFailedCreateLogfile", TranslationNeeded);
 
@@ -369,7 +369,7 @@ namespace RelhaxModpack
             //
             English.Add("failedToParse", "Failed to parse the file");
             German.Add("failedToParse", TranslationNeeded);
-            Polish.Add("failedToParse", TranslationNeeded);
+            Polish.Add("failedToParse", "Nie można przeanalizować pliku");
             French.Add("failedToParse", TranslationNeeded);
             Russian.Add("failedToParse", TranslationNeeded);
             #endregion
@@ -1493,7 +1493,7 @@ namespace RelhaxModpack
             //When the application first starts, it tries to open a logfile
             English.Add("failedVerifyFolderStructure", "The application failed to create the required folder structure. Check your file permissions or move the application to a folder with write access.");
             German.Add("failedVerifyFolderStructure", TranslationNeeded);
-            Polish.Add("failedVerifyFolderStructure", TranslationNeeded);
+            Polish.Add("failedVerifyFolderStructure", "Aplikacja nie utworzyła wymaganej struktury folderów. Sprawdź uprawnienia plików lub przenieś aplikację do folderu z dostępem zapisu.");
             French.Add("failedVerifyFolderStructure", TranslationNeeded);
             Russian.Add("failedVerifyFolderStructure", TranslationNeeded);
 
@@ -1501,7 +1501,7 @@ namespace RelhaxModpack
             //Upon update download, if it can't extract the exe
             English.Add("failedToExtractUpdateArchive", "The application failed to extract the update files. Check your file permissions and antivirus application.");
             German.Add("failedToExtractUpdateArchive", TranslationNeeded);
-            Polish.Add("failedToExtractUpdateArchive", TranslationNeeded);
+            Polish.Add("failedToExtractUpdateArchive", "Aplikacja nie wyodrębniła plików aktualizacji. Sprawdź uprawnienia plików i swój program antywirusowy.");
             French.Add("failedToExtractUpdateArchive", TranslationNeeded);
             Russian.Add("failedToExtractUpdateArchive", TranslationNeeded);
 
@@ -1509,7 +1509,7 @@ namespace RelhaxModpack
             //
             English.Add("downloadingUpdate", "Downloading application update");
             German.Add("downloadingUpdate", TranslationNeeded);
-            Polish.Add("downloadingUpdate", TranslationNeeded);
+            Polish.Add("downloadingUpdate", "Ściąganie aktualizacji aplikacji");
             French.Add("downloadingUpdate", TranslationNeeded);
             Russian.Add("downloadingUpdate", TranslationNeeded);
 
@@ -1517,7 +1517,7 @@ namespace RelhaxModpack
             //
             English.Add("autoOneclickSelectionFileNotExist", "The supplied path to the selection file does not exist");
             German.Add("autoOneclickSelectionFileNotExist", TranslationNeeded);
-            Polish.Add("autoOneclickSelectionFileNotExist", TranslationNeeded);
+            Polish.Add("autoOneclickSelectionFileNotExist", "Podana ścieżka do pliku wyboru nie istnieje");
             French.Add("autoOneclickSelectionFileNotExist", TranslationNeeded);
             Russian.Add("autoOneclickSelectionFileNotExist", TranslationNeeded);
 
@@ -1525,7 +1525,7 @@ namespace RelhaxModpack
             //
             English.Add("noAutoInstallWithBeta", "Auto install mode cannot be used with the beta database");
             German.Add("noAutoInstallWithBeta", TranslationNeeded);
-            Polish.Add("noAutoInstallWithBeta", TranslationNeeded);
+            Polish.Add("noAutoInstallWithBeta", "Automatyczna instalacja nie może zostać użyta z wersją beta bazy danych");
             French.Add("noAutoInstallWithBeta", TranslationNeeded);
             Russian.Add("noAutoInstallWithBeta", TranslationNeeded);
 
@@ -1533,7 +1533,7 @@ namespace RelhaxModpack
             //
             English.Add("ColorDumpSaveFileDialog", "Select where to save the colors customization file");
             German.Add("ColorDumpSaveFileDialog", TranslationNeeded);
-            Polish.Add("ColorDumpSaveFileDialog", TranslationNeeded);
+            Polish.Add("ColorDumpSaveFileDialog", "Wybierz, gdzie zapisać plik ze schematem własnych kolorów");
             French.Add("ColorDumpSaveFileDialog", TranslationNeeded);
             Russian.Add("ColorDumpSaveFileDialog", TranslationNeeded);
 
@@ -1541,7 +1541,7 @@ namespace RelhaxModpack
             //"branch" is this context is git respoitory branches
             English.Add("loadingBranches", "Loading branches");
             German.Add("loadingBranches", TranslationNeeded);
-            Polish.Add("loadingBranches", TranslationNeeded);
+            Polish.Add("loadingBranches", "Ładowanie gałęzi");
             French.Add("loadingBranches", TranslationNeeded);
             Russian.Add("loadingBranches", TranslationNeeded);
             #endregion
@@ -1643,7 +1643,7 @@ namespace RelhaxModpack
             //
             English.Add("FirstTimeUserModsWarning", "This tab is for selecting zip files you place in the \"RelhaxUserMods\" folder. They must be zip files, and should use a root directory folder of the \"World_of_Tanks\" directory");
             German.Add("FirstTimeUserModsWarning", "Auf dieser Registerkarte können Sie ZIP-Dateien auswählen, die Sie im Ordner \"RelhaxUserMods\" ablegen. Sie müssen Zip-Dateien sein und sollten einen Stammverzeichnisordner des Verzeichnisses \"World_of_Tanks\" verwenden");
-            Polish.Add("FirstTimeUserModsWarning", TranslationNeeded);
+            Polish.Add("FirstTimeUserModsWarning", "Ta karta służy do wybierania plików zip umieszczanych w folderze \"RelhaxUserMods\". Muszą to być pliki formatu zip i korzystające z kolderu głównego \"World_of_Tanks\"");
             French.Add("FirstTimeUserModsWarning", "Cet onglet sert à sélectionner les fichiers zip que vous placez dans le dossier \"RelhaxUserMods \". Il doit s'agir de fichiers zip et utiliser un dossier dans le dossier racine du répertoire \"World_of_Tanks \"");
             Russian.Add("FirstTimeUserModsWarning", "Данная вкладка предназначена для выбора модов, расположенных в папке \"RelhaxUserMods\". Они должны быть в виде ZIP-архивов и использовать корневую папку World of Tanks.");
 
@@ -1803,7 +1803,7 @@ namespace RelhaxModpack
             //
             English.Add("failedLoadSelection", "Failed to load selection");
             German.Add("failedLoadSelection", TranslationNeeded);
-            Polish.Add("failedLoadSelection", TranslationNeeded);
+            Polish.Add("failedLoadSelection", "Ładowanie wyborów zakończone niepowodzeniem");
             French.Add("failedLoadSelection", TranslationNeeded);
             Russian.Add("failedLoadSelection", TranslationNeeded);
 
@@ -1811,7 +1811,7 @@ namespace RelhaxModpack
             //
             English.Add("unknownselectionFileFormat", "Unknown selection file version");
             German.Add("unknownselectionFileFormat", TranslationNeeded);
-            Polish.Add("unknownselectionFileFormat", TranslationNeeded);
+            Polish.Add("unknownselectionFileFormat", "Nieznana wersja pliku wyboru");
             French.Add("unknownselectionFileFormat", TranslationNeeded);
             Russian.Add("unknownselectionFileFormat", TranslationNeeded);
 
@@ -1858,7 +1858,7 @@ namespace RelhaxModpack
             //shows (disabled) next to a component
             English.Add("disabled", "disabled");
             German.Add("disabled", TranslationNeeded);
-            Polish.Add("disabled", TranslationNeeded);
+            Polish.Add("disabled", "wyłączono");
             French.Add("disabled", TranslationNeeded);
             Russian.Add("disabled", TranslationNeeded);
 
@@ -1866,7 +1866,7 @@ namespace RelhaxModpack
             //shows (invisible) next to a component
             English.Add("invisible", "invisible");
             German.Add("invisible", TranslationNeeded);
-            Polish.Add("invisible", TranslationNeeded);
+            Polish.Add("invisible", "niewidoczny");
             French.Add("invisible", TranslationNeeded);
             Russian.Add("invisible", TranslationNeeded);
             #endregion
@@ -2055,7 +2055,7 @@ namespace RelhaxModpack
             //
             English.Add("failedToDownload1", "Failed to download the package");
             German.Add("failedToDownload1", TranslationNeeded);
-            Polish.Add("failedToDownload1", TranslationNeeded);
+            Polish.Add("failedToDownload1", "Ściągnie paczki zakończone niepowodzeniem");
             French.Add("failedToDownload1", TranslationNeeded);
             Russian.Add("failedToDownload1", TranslationNeeded);
 
@@ -2063,7 +2063,7 @@ namespace RelhaxModpack
             //
             English.Add("failedToDownload2", "Would you like to retry the download, abort the installation, or continue?");
             German.Add("failedToDownload2", TranslationNeeded);
-            Polish.Add("failedToDownload2", TranslationNeeded);
+            Polish.Add("failedToDownload2", "Czy chcesz powtórzyć ściąganie, porzucić instalację, czy kontynuować?");
             French.Add("failedToDownload2", TranslationNeeded);
             Russian.Add("failedToDownload2", TranslationNeeded);
 
@@ -2245,7 +2245,7 @@ namespace RelhaxModpack
             //
             English.Add("uninstallFail", "The uninstallation failed. You could try another uninstallation mode or submit a bug report.");
             German.Add("uninstallFail", TranslationNeeded);
-            Polish.Add("uninstallFail", TranslationNeeded);
+            Polish.Add("uninstallFail", "Deinstalacja nie powiodła się. Możesz wypróbować inny tryb odinstalowania lub wysłać raport o błędzie.");
             French.Add("uninstallFail", TranslationNeeded);
             Russian.Add("uninstallFail", TranslationNeeded);
 
@@ -2651,7 +2651,7 @@ namespace RelhaxModpack
             //
             English.Add("installFailed", "The installation failed at step");
             German.Add("installFailed", TranslationNeeded);
-            Polish.Add("installFailed", TranslationNeeded);
+            Polish.Add("installFailed", "Instalacja nie powiodła się na kroku ");
             French.Add("installFailed", TranslationNeeded);
             Russian.Add("installFailed", TranslationNeeded);
             #endregion
@@ -2693,7 +2693,7 @@ namespace RelhaxModpack
             //
             English.Add("InstallationCompleteCloseThisWindow", "Close this window?");
             German.Add("InstallationCompleteCloseThisWindow", "Schließe dieses Fenster?");
-            Polish.Add("InstallationCompleteCloseThisWindow", TranslationNeeded);
+            Polish.Add("InstallationCompleteCloseThisWindow", "Zamknąć to okno?");
             French.Add("InstallationCompleteCloseThisWindow", "Fermer cette fenêtre?");
             Russian.Add("InstallationCompleteCloseThisWindow", "Закрыть окно?");
 
@@ -2709,7 +2709,7 @@ namespace RelhaxModpack
             //localisation to which page you will jump
             English.Add("xvmUrlLocalisation", "en");
             German.Add("xvmUrlLocalisation", "de");
-            Polish.Add("xvmUrlLocalisation", "en");
+            Polish.Add("xvmUrlLocalisation", "pl");
             French.Add("xvmUrlLocalisation", "fr");
             Russian.Add("xvmUrlLocalisation", "ru");
 
@@ -2871,7 +2871,7 @@ namespace RelhaxModpack
             //
             English.Add("selectFilesToInclude", "Select files to include in the bug report");
             German.Add("selectFilesToInclude", TranslationNeeded);
-            Polish.Add("selectFilesToInclude", TranslationNeeded);
+            Polish.Add("selectFilesToInclude", "Zaznacz pliki do załączenia w raporcie o błędzie");
             French.Add("selectFilesToInclude", TranslationNeeded);
             Russian.Add("selectFilesToInclude", TranslationNeeded);
             #endregion
@@ -2929,7 +2929,7 @@ namespace RelhaxModpack
             //
             English.Add("dropDownItemsInside", "Items Inside");
             German.Add("dropDownItemsInside", "Gegenstände im Inneren");
-            Polish.Add("dropDownItemsInside", TranslationNeeded);
+            Polish.Add("dropDownItemsInside", "Elementy wewnątrz");
             French.Add("dropDownItemsInside", "Articles à l'intérieur");
             Russian.Add("dropDownItemsInside", "Элементов внутри");
 
@@ -2937,7 +2937,7 @@ namespace RelhaxModpack
             //
             English.Add("popular", "popular");
             German.Add("popular", TranslationNeeded);
-            Polish.Add("popular", TranslationNeeded);
+            Polish.Add("popular", "popularny");
             French.Add("popular", TranslationNeeded);
             Russian.Add("popular", TranslationNeeded);
 
@@ -2945,7 +2945,7 @@ namespace RelhaxModpack
             //
             English.Add("previewEncounteredError", "The preview window encountered an error. Failed to display preview.");
             German.Add("previewEncounteredError", TranslationNeeded);
-            Polish.Add("previewEncounteredError", TranslationNeeded);
+            Polish.Add("previewEncounteredError", "Błąd w oknie podglądu. Nie można wyświetlić podglądu.");
             French.Add("previewEncounteredError", TranslationNeeded);
             Russian.Add("previewEncounteredError", TranslationNeeded);
             #endregion
@@ -3136,7 +3136,7 @@ namespace RelhaxModpack
             //
             English.Add("application_Update_TabHeader", "Application News");
             German.Add("application_Update_TabHeader", "App Neuigkeiten");
-            Polish.Add("application_Update_TabHeader", TranslationNeeded);
+            Polish.Add("application_Update_TabHeader", "Nowości w aplikacji");
             French.Add("application_Update_TabHeader", "Nouvelles d'application");
             Russian.Add("application_Update_TabHeader", "Новости приложения");
 
@@ -3144,7 +3144,7 @@ namespace RelhaxModpack
             //
             English.Add("database_Update_TabHeader", "Database News");
             German.Add("database_Update_TabHeader", "Datenbank Neuigkeiten");
-            Polish.Add("database_Update_TabHeader", TranslationNeeded);
+            Polish.Add("database_Update_TabHeader", "Nowościi w bazie danych");
             French.Add("database_Update_TabHeader", "Nouvelles de la base de données");
             Russian.Add("database_Update_TabHeader", "Новости базы данных");
             #endregion
@@ -3154,7 +3154,7 @@ namespace RelhaxModpack
             //
             English.Add("LoadingHeader", "Loading, please wait");
             German.Add("LoadingHeader", "Lade, bitte warten");
-            Polish.Add("LoadingHeader", TranslationNeeded);
+            Polish.Add("LoadingHeader", "Ładowanie, proszę czekać");
             French.Add("LoadingHeader", "Chargement, veuillez patienter");
             Russian.Add("LoadingHeader", TranslationNeeded);
             #endregion
@@ -3164,7 +3164,7 @@ namespace RelhaxModpack
             //
             English.Add("AgreementLicense", "You have read and agree to the ");
             German.Add("AgreementLicense", "Sie haben Folgendes gelesen und zugestimmt: ");
-            Polish.Add("AgreementLicense", TranslationNeeded);
+            Polish.Add("AgreementLicense", "Przeczytałeś i zgadzasz się na ");
             French.Add("AgreementLicense", "Vous avez lu et accepté le ");
             Russian.Add("AgreementLicense", "Вы прочли и согласны с ");
 
@@ -3172,7 +3172,7 @@ namespace RelhaxModpack
             //
             English.Add("LicenseLink", "License Agreement");
             German.Add("LicenseLink", "Lizenzvereinbarung");
-            Polish.Add("LicenseLink", TranslationNeeded);
+            Polish.Add("LicenseLink", "Liicencję użytkowania");
             French.Add("LicenseLink", "Contrat de licence");
             Russian.Add("LicenseLink", "условиями лицензионного соглашения");
 
@@ -3180,7 +3180,7 @@ namespace RelhaxModpack
             //
             English.Add("AgreementSupport1", "If you need support you can either visit our ");
             German.Add("AgreementSupport1", "Falls sie Unterstützung benötigen, besuchen Sie entweder unser ");
-            Polish.Add("AgreementSupport1", TranslationNeeded);
+            Polish.Add("AgreementSupport1", "Jeśli potrzebujesz pomocy możesz zajrzeć na nasze ");
             French.Add("AgreementSupport1", "Si vous avez besoin d'aide, vous pouvez soit visiter notre ");
             Russian.Add("AgreementSupport1", "Если понадобится помощь, вы смодете посетить наш ");
 
@@ -3188,7 +3188,7 @@ namespace RelhaxModpack
             //
             English.Add("AgreementSupportForums", "Forums");
             German.Add("AgreementSupportForums", "Forum");
-            Polish.Add("AgreementSupportForums", TranslationNeeded);
+            Polish.Add("AgreementSupportForums", "Forum");
             French.Add("AgreementSupportForums", "forum");
             Russian.Add("AgreementSupportForums", "форум");
 
@@ -3196,7 +3196,7 @@ namespace RelhaxModpack
             //
             English.Add("AgreementSupport2", " or our ");
             German.Add("AgreementSupport2", " oder unseren ");
-            Polish.Add("AgreementSupport2", TranslationNeeded);
+            Polish.Add("AgreementSupport2", " lub ");
             French.Add("AgreementSupport2", "ou notre");
             Russian.Add("AgreementSupport2", " или наш ");
 
@@ -3204,7 +3204,7 @@ namespace RelhaxModpack
             //
             English.Add("AgreementSupportDiscord", "Discord");
             German.Add("AgreementSupportDiscord", "D15C0RD");
-            Polish.Add("AgreementSupportDiscord", TranslationNeeded);
+            Polish.Add("AgreementSupportDiscord", "serwer Discord");
             French.Add("AgreementSupportDiscord", "Discord");
             Russian.Add("AgreementSupportDiscord", "Discord");
 
@@ -3212,7 +3212,7 @@ namespace RelhaxModpack
             //
             English.Add("AgreementHoster", "I understand Relhax is a mod hosting and installation service and Relhax does not maintain every mod found in this Modpack");
             German.Add("AgreementHoster", "Ich verstehe, dass Relhax ein Mod-Hosting- und Installationsservice ist und Relhax nicht alle Mods verwaltet, die in diesem Modpack enthalten sind");
-            Polish.Add("AgreementHoster", TranslationNeeded);
+            Polish.Add("AgreementHoster", "Rozumiem, że Relhax jest serwisem hostingowym do instalacji modów, a Relhax nie jest deweloperem modów zawartych w tym Modpacku");
             French.Add("AgreementHoster", "Je comprends que Relhax est un service d'installation et d'hébergement de mods et Relhax ne gère pas tous les mods trouvés dans ce Modpack");
             Russian.Add("AgreementHoster", "Я понимаю, что Relhax является площадкой хостинга модов и сервисом их установки и то, что Relhax не занимается разработкой каждого мода из этого модпака");
 
@@ -3220,7 +3220,7 @@ namespace RelhaxModpack
             //
             English.Add("AgreementAnonData", "I understand that Relhax V2 collects anonymous usage data to improve the application, and can be disabled in the advanced settings tab");
             German.Add("AgreementAnonData", "Ich verstehe, dass Relhax V2 anonyme Nutzungsdaten sammelt, um die Anwendung zu verbessern, und auf der Registerkarte  für erweiterte Einstellungen deaktiviert werden kann");
-            Polish.Add("AgreementAnonData", TranslationNeeded);
+            Polish.Add("AgreementAnonData", "Rozumiem, że Relhax V2 zbiera anonimowe dane o użytkowaniu w celu ulepszenia aplikacji i można wyłączyć tą opcję w karcie ustawień zaawansowanych");
             French.Add("AgreementAnonData", "Je comprends que Relhax V2 collecte des données d'utilisation anonymes pour améliorer l'application et peut être désactivé dans l'onglet Paramètres avancés");
             Russian.Add("AgreementAnonData", "Я понимаю, что Relhax V2 собирает анонимные сведения об использовании для улучшения приложения и могу отключить сбор данных в разделе расширенных настроек");
 
@@ -3228,7 +3228,7 @@ namespace RelhaxModpack
             //
             English.Add("ContinueButton", "Continue");
             German.Add("ContinueButton", "Fortsetzen");
-            Polish.Add("ContinueButton", TranslationNeeded);
+            Polish.Add("ContinueButton", "Kontynuuj");
             French.Add("ContinueButton", "Continuer");
             Russian.Add("ContinueButton", "Продолжить");
 
@@ -3238,7 +3238,8 @@ namespace RelhaxModpack
                 " Pressing continue will result in an upgrade to file structure that cannot be reverted. It is recommended to make a backup of your V1 folder before continuing");
             German.Add("V2UpgradeNoticeText", "Es sieht so aus, als würden Sie zum ersten Mal ein Upgrade von V1 auf V2 ausführen. " + 
                 " Wenn Sie auf Fortsetzen klicken, wird ein Upgrade der Dateistruktur durchgeführt, das nicht wiederhergestellt werden kann. Es wird empfohlen, eine Sicherungskopie Ihres V1-Ordners zu erstellen, bevor Sie fortfahren");
-            Polish.Add("V2UpgradeNoticeText", TranslationNeeded);
+            Polish.Add("V2UpgradeNoticeText", "Wygląda na to, że po raz pierwszy aktualizujesz wersję V1 do V2."+
+                 "Naciśnięcie przycisku Kontynuuj spowoduje aktualizację struktury plików, której nie można cofnąć. Zaleca się wykonanie kopii zapasowej folderu V1 przed dalszą pracą");
             French.Add("V2UpgradeNoticeText", "Il semble que vous exécutiez une mise à niveau de V1 à V2 pour la première fois." +
                 " Appuyer sur Continuer entraînera une mise à niveau de la structure de fichiers qui ne peut pas être annulée. Il est recommandé de faire une sauvegarde de votre dossier V1 avant de continuer");
             Russian.Add("V2UpgradeNoticeText", "Похоже, что вы производите апгрейд с V1 на V2 в первый раз. Нажатие кнопки продолжения произведёт обновление структуры файлов, которое невозможно откатить. Рекомендуется создание бэкапа папки с V1 перед продолжением");
@@ -3249,7 +3250,7 @@ namespace RelhaxModpack
             //
             English.Add("selectLocationToExport", "Select the folder to export the mod installation into");
             German.Add("selectLocationToExport", TranslationNeeded);
-            Polish.Add("selectLocationToExport", TranslationNeeded);
+            Polish.Add("selectLocationToExport", "Wybierz folder, do którego chcesz wyeksportować zainstalowane modyfikacje");
             French.Add("selectLocationToExport", TranslationNeeded);
             Russian.Add("selectLocationToExport", TranslationNeeded);
 
@@ -3257,7 +3258,7 @@ namespace RelhaxModpack
             //
             English.Add("ExportSelectVersionHeader", "Please select the version of the WoT client you want to export for");
             German.Add("ExportSelectVersionHeader", TranslationNeeded);
-            Polish.Add("ExportSelectVersionHeader", TranslationNeeded);
+            Polish.Add("ExportSelectVersionHeader", "Wybierz wersję klienta WoT, z którego którego chcesz wyeksportować modyfikacje");
             French.Add("ExportSelectVersionHeader", TranslationNeeded);
             Russian.Add("ExportSelectVersionHeader", TranslationNeeded);
 
@@ -3265,7 +3266,7 @@ namespace RelhaxModpack
             //
             English.Add("ExportContinueButton", "Continue");
             German.Add("ExportContinueButton", TranslationNeeded);
-            Polish.Add("ExportContinueButton", TranslationNeeded);
+            Polish.Add("ExportContinueButton", "Kontynuuj");
             French.Add("ExportContinueButton", TranslationNeeded);
             Russian.Add("ExportContinueButton", TranslationNeeded);
 
@@ -3273,7 +3274,7 @@ namespace RelhaxModpack
             //
             English.Add("ExportCancelButton", "Cancel");
             German.Add("ExportCancelButton", TranslationNeeded);
-            Polish.Add("ExportCancelButton", TranslationNeeded);
+            Polish.Add("ExportCancelButton", "Anuluj");
             French.Add("ExportCancelButton", TranslationNeeded);
             Russian.Add("ExportCancelButton", TranslationNeeded);
 
@@ -3281,7 +3282,7 @@ namespace RelhaxModpack
             //
             English.Add("ExportModeMajorVersion", "Online folder version");
             German.Add("ExportModeMajorVersion", TranslationNeeded);
-            Polish.Add("ExportModeMajorVersion", TranslationNeeded);
+            Polish.Add("ExportModeMajorVersion", "Wersja online folderu");
             French.Add("ExportModeMajorVersion", TranslationNeeded);
             Russian.Add("ExportModeMajorVersion", TranslationNeeded);
 
@@ -3289,7 +3290,7 @@ namespace RelhaxModpack
             //
             English.Add("ExportModeMinorVersion", "WoT version");
             German.Add("ExportModeMinorVersion", TranslationNeeded);
-            Polish.Add("ExportModeMinorVersion", TranslationNeeded);
+            Polish.Add("ExportModeMinorVersion", "Wersja WoT");
             French.Add("ExportModeMinorVersion", TranslationNeeded);
             Russian.Add("ExportModeMinorVersion", TranslationNeeded);
             #endregion
@@ -3307,7 +3308,7 @@ namespace RelhaxModpack
             //
             English.Add("WoTRunningHeader", "It looks like your WoT install is currently open. Please close it before we can proceed");
             German.Add("WoTRunningHeader", TranslationNeeded);
-            Polish.Add("WoTRunningHeader", TranslationNeeded);
+            Polish.Add("WoTRunningHeader", "Wygląda na to, że aplikacja WoT jest obecnie włączona. Zamknij ją, by kontynuować");
             French.Add("WoTRunningHeader", TranslationNeeded);
             Russian.Add("WoTRunningHeader", TranslationNeeded);
 
@@ -3315,7 +3316,7 @@ namespace RelhaxModpack
             //
             English.Add("WoTRunningCancelInstallButton", "Cancel Installation");
             German.Add("WoTRunningCancelInstallButton", TranslationNeeded);
-            Polish.Add("WoTRunningCancelInstallButton", TranslationNeeded);
+            Polish.Add("WoTRunningCancelInstallButton", "Anuluj instalację");
             French.Add("WoTRunningCancelInstallButton", TranslationNeeded);
             Russian.Add("WoTRunningCancelInstallButton", TranslationNeeded);
 
@@ -3323,7 +3324,7 @@ namespace RelhaxModpack
             //
             English.Add("WoTRunningRetryButton", "Re-detect");
             German.Add("WoTRunningRetryButton", TranslationNeeded);
-            Polish.Add("WoTRunningRetryButton", TranslationNeeded);
+            Polish.Add("WoTRunningRetryButton", "Ponowne wykrywanie");
             French.Add("WoTRunningRetryButton", TranslationNeeded);
             Russian.Add("WoTRunningRetryButton", TranslationNeeded);
 
@@ -3331,7 +3332,7 @@ namespace RelhaxModpack
             //
             English.Add("WoTRunningForceCloseButton", "Force close the game");
             German.Add("WoTRunningForceCloseButton", TranslationNeeded);
-            Polish.Add("WoTRunningForceCloseButton", TranslationNeeded);
+            Polish.Add("WoTRunningForceCloseButton", "Wymuś zamknięcie gry");
             French.Add("WoTRunningForceCloseButton", TranslationNeeded);
             Russian.Add("WoTRunningForceCloseButton", TranslationNeeded);
             #endregion
